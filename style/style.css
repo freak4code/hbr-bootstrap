@@ -1,0 +1,78 @@
+/* Global Style */
+
+.honda-text-orange {
+    color: #E76F51;
+}
+
+/* Header Style */
+
+.honda-header {
+    background-color: #264653;
+
+}
+
+.honda-header-text {
+    color: #E0E0E0;
+}
+
+.honda-btn {
+    color: #E0E0E0;
+    background-color: #E76F51;
+    border-color: #E76F51;
+    
+}
+
+/* Feature Style */
+
+.feature-subtitle {
+color: #E76F51;
+}
+
+.honda-feature-bike {
+    width: 288px;
+    height: 243px;
+}
+
+.gray-scale {
+    filter: grayscale(70%);
+}
+
+
+/* Client Style */
+
+.honda-client-card {
+    width: 323px;
+    height: 478px;
+}
+
+.honda-img-client {
+    width: 149px;
+    height: 149px;
+}
+
+
+.honda-client-name {
+    color: #23A6F0;
+}
+
+.honda-client-work {
+    color: #252B42;
+}
+
+.honda-client-rating {
+    color: #E77C40;
+}
+
+/* FAQ Style */
+
+.faq-image {
+    width: 471px;
+    height: 423px;
+}
+
+/* Subscriber Area */
+
+.honda-subscribe {
+    background-color: #FCEAE7;
+
+}
